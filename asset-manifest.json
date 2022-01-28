@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/widget-tutorial-app/static/js/main.bb849bb6.js",
+    "index.html": "/widget-tutorial-app/index.html",
+    "main.bb849bb6.js.map": "/widget-tutorial-app/static/js/main.bb849bb6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bb849bb6.js"
+  ]
+}
